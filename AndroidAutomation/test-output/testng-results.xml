@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6682" started-at="2021-02-13T17:17:07 IST" finished-at="2021-02-13T17:17:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6682" started-at="2021-02-13T17:17:07 IST" finished-at="2021-02-13T17:17:14 IST">
+      <class name="SampleAndroidAutomationTest.AppTest">
+        <test-method status="PASS" signature="beginTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="beginTest" is-config="true" duration-ms="2637" started-at="2021-02-13T17:17:07 IST" finished-at="2021-02-13T17:17:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beginTest -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="sampleTest" duration-ms="4" started-at="2021-02-13T17:17:10 IST" finished-at="2021-02-13T17:17:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="endTest" is-config="true" duration-ms="4003" started-at="2021-02-13T17:17:10 IST" finished-at="2021-02-13T17:17:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- SampleAndroidAutomationTest.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
