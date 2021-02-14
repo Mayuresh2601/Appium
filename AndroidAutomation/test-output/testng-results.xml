@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6682" started-at="2021-02-13T17:17:07 IST" finished-at="2021-02-13T17:17:14 IST">
+  <suite name="Default suite" duration-ms="17155" started-at="2021-02-14T18:46:39 IST" finished-at="2021-02-14T18:46:57 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6682" started-at="2021-02-13T17:17:07 IST" finished-at="2021-02-13T17:17:14 IST">
+    <test name="Default test" duration-ms="17155" started-at="2021-02-14T18:46:39 IST" finished-at="2021-02-14T18:46:57 IST">
       <class name="SampleAndroidAutomationTest.AppTest">
-        <test-method status="PASS" signature="beginTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="beginTest" is-config="true" duration-ms="2637" started-at="2021-02-13T17:17:07 IST" finished-at="2021-02-13T17:17:10 IST">
+        <test-method status="PASS" signature="beginTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="beginTest" is-config="true" duration-ms="12748" started-at="2021-02-14T18:46:39 IST" finished-at="2021-02-14T18:46:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beginTest -->
-        <test-method status="PASS" signature="sampleTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="sampleTest" duration-ms="4" started-at="2021-02-13T17:17:10 IST" finished-at="2021-02-13T17:17:10 IST">
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="sampleTest" duration-ms="6" started-at="2021-02-14T18:46:52 IST" finished-at="2021-02-14T18:46:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sampleTest -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="endTest" is-config="true" duration-ms="4003" started-at="2021-02-13T17:17:10 IST" finished-at="2021-02-13T17:17:14 IST">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:SampleAndroidAutomationTest.AppTest@74650e52]" name="endTest" is-config="true" duration-ms="4365" started-at="2021-02-14T18:46:52 IST" finished-at="2021-02-14T18:46:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->

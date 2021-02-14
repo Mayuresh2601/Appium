@@ -15,6 +15,7 @@ public class Utility extends Base{
 		
 		try {
 
+			// Ran on Appium Version 1.18.0
 			DesiredCapabilities caps = new DesiredCapabilities();
 
 			caps.setCapability(MobileCapabilityType.PLATFORM_NAME, "ANDROID");
@@ -22,13 +23,10 @@ public class Utility extends Base{
 
 			caps.setCapability(MobileCapabilityType.DEVICE_NAME, "OnePlus 7T");
 			caps.setCapability(MobileCapabilityType.UDID, "89f2814f");
-
 			caps.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 60);
-			caps.setCapability(MobileCapabilityType.BROWSER_NAME, "Chrome");
-//			caps.setCapability("appPackage", "com.ekincare.development");
-//			caps.setCapability("appActivity", "com.ekincare.SplashScreenActivity");
-//			caps.setCapability("appPackage", "com.android.calculator2");
-//			caps.setCapability("appActivity", "com.android.calculator2.Calculator");
+
+			caps.setCapability("appPackage", "com.oneplus.calculator");
+			caps.setCapability("appActivity", "com.oneplus.calculator.Calculator");
 			
 			URL url = new URL("http://0.0.0.0:4723/wd/hub");
 
